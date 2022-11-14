@@ -178,7 +178,7 @@ Version | Supported? | Import | Notes
 
 ## Development and Contributing
 
-Yes, please! [`Makefile`](Makefile) is your friend,
+Yes, please! [`Makefile`](makefile) is your friend,
 read the [development guide](CONTRIBUTING.md).
 
 Also have a look at the [FAQ](FAQ.md).

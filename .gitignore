@@ -15,7 +15,7 @@
 # vendor/
 
 # makefile
-Makefile
+makefile
 
 # .idea folder
 .idea/
